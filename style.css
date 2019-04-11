@@ -1,0 +1,35 @@
+#header{
+    text-align: center;
+    background-color: #bada55;
+    color: aliceblue;
+    border-radius: 1em;
+}
+
+body{
+    background-color: rgb(255, 0, 255);
+    text-align: center;
+}
+
+#trainSchedule, #addTrain{
+    background-color: peachpuff;
+    border-radius: 1em;
+}
+
+#trainSchedule table{
+    margin: auto;
+}
+
+#addTrain form{
+    display:flex;
+    flex-direction: column;
+}
+
+button{
+    width: 35%;
+    margin: auto;
+}
+
+.container{
+    max-width: 960px;
+    margin: auto;
+}
